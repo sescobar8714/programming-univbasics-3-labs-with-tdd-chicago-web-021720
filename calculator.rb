@@ -1,6 +1,6 @@
 first_number = 20
 second_number = 15
-sum = adding
-difference = subtracting
+sum = +
+difference = -
 product = multiplying
 quotient = dividing
