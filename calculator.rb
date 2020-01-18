@@ -3,4 +3,4 @@ second_number = 15
 sum = +
 difference = -
 product = *
-quotient = dividing
+quotient = 
